@@ -15,3 +15,5 @@ Paramters in model: 21,540
 ---
 ## SIDDHAARTH_BATCH_1_ASSIGNMENT_4B.ipynb
 Created a DenseNet that classifies images from the CIFAR -10 database with accuracy of 80.06%
+<br>
+Update: Accuracy improved to 87.25%
